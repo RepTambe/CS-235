@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\atamb\source\repos\GradesLab\GradesLab\main.cpp(51,7): warning C4101: 'numLines': unreferenced local variable
+  GradesLab.vcxproj -> C:\Users\atamb\source\repos\GradesLab\Debug\GradesLab.exe
