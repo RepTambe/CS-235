@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\atamb\source\repos\StudentSchedule\StudentSchedule\Main.cpp(183,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\atamb\source\repos\StudentSchedule\StudentSchedule\Main.cpp(208,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\atamb\source\repos\StudentSchedule\StudentSchedule\Main.cpp(218,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\atamb\source\repos\StudentSchedule\StudentSchedule\Main.cpp(242,35): warning C4018: '<': signed/unsigned mismatch
+  StudentSchedule.vcxproj -> C:\Users\atamb\source\repos\StudentSchedule\Debug\StudentSchedule.exe
